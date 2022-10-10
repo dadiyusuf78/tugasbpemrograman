@@ -19,7 +19,7 @@ data("Dadi","123")
 # Contoh
 def data(sisi):
     return(sisi*sisi)
-data(2)
+print(data(2))
 def total(alas,tinggi):
     return(0.5*alas*tinggi)
-data(2,5)
+print(total(2,5))
