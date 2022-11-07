@@ -1,3 +1,7 @@
+Dadi Yusuf
+20220801132
+Teknik Informatika
+
 # 1. Print “saya belajar Bahasa Pemrograman menggunakan python”
 # 2. Menghitung luas segitiga
 # 3. Input nama dan nim menggunakan definisi fungsi
